@@ -24,7 +24,8 @@
 
 /* -------------------------------------------  */
 html, body{
-  margin:0;
+  width: 1280px;
+  margin:auto;
   padding: 0;
   font-family: helvetica;
   color: var(--black-color);

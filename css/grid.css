@@ -9,6 +9,13 @@
   margin-bottom: 100px;
 }
 
+.container.pay{
+  display: flex;
+  height: 65vh;
+  align-items: center;
+  justify-content: center;
+}
+
 .row {
   display: flex;
 }
